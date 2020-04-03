@@ -12,6 +12,8 @@ After graduation, the developer will have deep knowledge in how to build declara
 #### ✅ 1. MyReads: A Book Tracking App - React
 Virtual bookcase to store your books and track what you're reading - allowing you to select and categorize books you have read, are currently reading, or want to read.
 
+[Go to the repo](https://github.com/antoniogagos/MyReads---A-Book-Tracking-App)
+
 #### 2. Would You Rather - React & Redux
 Famous game where players are given questions and must choose one of them. User is able to create its own sets of questions, choose between them, and keep track of question popularity.
 
